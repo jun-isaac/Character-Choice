@@ -137,25 +137,25 @@
   
   /* 첫번째 칼럼 배경 스타일 지정 */
   .main .col:first-child {
-    background-image: url(./marco.png);
+    background-image: url(./image/marco.png);
     background-size: cover;
     background-position: center;
   }
   
   .main .col:nth-child(2) {
-    background-image: url(./eri.png);
+    background-image: url(./image/eri.png);
     background-size: cover;
     background-position: center;
   }
   
   .main .col:nth-child(3) {
-    background-image: url(./tarma.png);
+    background-image: url(./image/tarma.png);
     background-size: cover;
     background-position: center;
   }
   
   .main .col:last-child {
-    background-image: url(./fio.png);
+    background-image: url(./image/fio.png);
     background-size: cover;
     background-position: center;
   }
